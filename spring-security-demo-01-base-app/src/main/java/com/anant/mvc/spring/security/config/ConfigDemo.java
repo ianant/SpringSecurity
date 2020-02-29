@@ -21,4 +21,6 @@ public class ConfigDemo {
 		viewResolver.setSuffix(".jsp");
 		return viewResolver;
 	}
+	
+	
 }
